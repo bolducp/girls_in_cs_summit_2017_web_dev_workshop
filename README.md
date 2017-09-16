@@ -6,3 +6,10 @@ https://codepen.io/bolducp/pen/boVwmm
 
 #### Slides
 www.paigebolduc.com/talks/girls-in-cs-summit.html
+
+
+#### Workshop supplemental links
+- [Basic HTML Elements](http://www.simplehtmlguide.com/cheatsheet.php)
+- [HTML Colors list](https://www.w3schools.com/cssref/css_colors.asp)
+- [CSS web safe fonts](https://www.w3schools.com/cssref/css_websafe_fonts.asp)
+- [Adobe Color Wheel](https://color.adobe.com)
