@@ -1,0 +1,22 @@
+body {
+  background-color: LightSteelBlue;
+  font-family: 'Trebuchet MS';
+}
+
+button {
+  background-color: #FFBCAD;
+  height: 50px;
+  width: 100px;
+}
+
+h1 {
+  color: LightYellow;
+}
+
+h3 {
+  color: DarkCyan;
+}
+
+img {
+  height: 200px;
+}
